@@ -5,5 +5,5 @@ info:
     datasource:
       username: whb883
       password: '{cipher}83ed4ca76ff32cfb9d4770deec88a0bd09eba71679cfef261cd10d0924db36ea'
-  
+
 test: bbb
