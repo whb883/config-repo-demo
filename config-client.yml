@@ -1,4 +1,5 @@
 info:
+  profile: default
   spring:
     datasource:
       username: whb883
