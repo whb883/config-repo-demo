@@ -1,5 +1,6 @@
 info:
   profile: default
+  from: git
   spring:
     datasource:
       username: whb883
